@@ -1156,7 +1156,7 @@
     "id":"FC21412A7C92444EA50B30A09729330F",
     "language":"English",
     "subject":"Math",
-    "comment":[
+    "clarifications":[
       "Students need not use formal terms for these properties.",
       "To add 2 + 6 + 4, the second two numbers can be added to make a ten, so 2 + 6 + 4 = 2 + 10 = 12. (Associative property of addition.)",
       "If 8 + 3 = 11 is known, then 3 + 8 = 11 is also known. (Commutative property of addition.)"
@@ -1698,7 +1698,7 @@
     "id":"86C2F83D480C4300939245389E99711A",
     "language":"English",
     "subject":"Math",
-    "comment":[
+    "clarifications":[
       "Students need not use formal terms for these properties.",
       "Example: Knowing that 8 × 5 = 40 and 8 × 2 = 16, one can find 8 × 7 as 8 × (5 + 2) = (8 × 5) + (8 × 2) = 40 + 16 = 56. (Distributive property.)",
       "Example: If 6 × 4 = 24 is known, then 4 × 6 = 24 is also known (Commutative property of multiplication.) 3 × 5 × 2 can be found by 3 × 5 = 15, then 15 × 2 = 30, or by 5 × 2 = 10, then 3 × 10 = 30. (Associative property of multiplication.)"
@@ -4885,7 +4885,7 @@
     "id":"3311256F77B14AF1A5798771E036BFE6",
     "language":"English",
     "subject":"Math",
-    "comment":[
+    "clarifications":[
       "Excludes multiplicative comparison problems (problems involving notions of &quot;times as much&quot;;",
       "Excludes compound units such as cm³ and finding the geometric volume of a container."
     ],
@@ -7588,7 +7588,7 @@
     "subject":"Math",
     "cls":"folder",
     "statementLabel":"Domain",
-    "comment":[
+    "clarifications":[
       "Grade 3 expectations in this domain are limited to fractions with denominators 2, 3, 4, 6, and 8.",
       "Grade 4 expectations in this domain are limited to fractions with denominators 2, 3, 4, 5, 6, 8, 10, 12, and 100"
     ],
@@ -7850,7 +7850,7 @@
     "id":"70C12332BEED45098AA0A0BBCD977376",
     "language":"English",
     "subject":"Math",
-    "comment":[
+    "clarifications":[
       "Example: express 3 in the form 3 = 3/1; recognize that 6/1 = 6.",
       "Example: locate 4/4 and 1 at the same point of a number line diagram."
     ],
@@ -8331,7 +8331,7 @@
     "id":"C374A9ECF108450BB9790DDB560BBB25",
     "language":"English",
     "subject":"Math",
-    "comment":[
+    "clarifications":[
       "Students who can generate equivalent fractions can develop strategies for adding fractions with unlike denominators in general. But addition and subtraction with unlike denominators in general is not a requirement at this grade.",
       "For example, express 3/10 as 30/100, and add 3/10 + 4/100 = 34/100."
     ],
@@ -9002,7 +9002,7 @@
     "id":"1F313537A545454283801E86987520FD",
     "language":"English",
     "subject":"Math",
-    "comment":[
+    "clarifications":[
       "Expectations for unit rates in this grade are limited to non-complex fractions.",
       "For example, &quot;This recipe has a ratio of 3 cups of flour to 4 cups of sugar, so there is 3/4 cup of flour for each cup of sugar.&quot; &quot;We paid $75 for 15 hamburgers, which is a rate of $5 per hamburger.&quot;"
     ],
