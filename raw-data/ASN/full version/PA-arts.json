@@ -1,0 +1,3526 @@
+{
+  "http://asn.jesandco.org/resources/D10002DC.json" : {
+    "http://xmlns.com/foaf/0.1/primaryTopic" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/rightsHolder" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/dc/terms/modified" : [
+      { "value" : "2011-03-02T10:41:53-05:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2011-03-02T10:41:53-05:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/elements/1.1/creator" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://creativecommons.org/ns#license" : [
+      { "value" : "http://creativecommons.org/licenses/by/3.0/us/", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionURL" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionName" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/ASN/schema/core/exportVersion" : [
+      { "value" : "http://purl.org/ASN/export/3.1.0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/D10002DC" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/StandardDocument", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/jurisdiction" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNJurisdiction/PA", "type" : "uri" }
+    ],
+    "http://purl.org/dc/elements/1.1/title" : [
+      { "value" : "Academic Standards for the Arts and Humanities", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The Academic Standards for the Arts and Humanities describe what students should know and be able to do at the end of grades 3, 5, 8 and 12 in the visual and performing arts and the understanding about humanities context within the arts. The arts include dance, music, theatre and visual arts. The arts and the humanities are interconnected through the inclusion of history, criticism and aesthetics. In addition, the humanities include literature and language, philosophy, social studies and world languages. The areas encompassed in the humanities such as jurisprudence, comparative religions and ethics are included among other standards documents. The interconnected arts and humanities areas are divided into these standards categories:", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/ASN/schema/core/publicationStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNPublicationStatus/Published", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/repositoryDate" : [
+      { "value" : "2011-03-02", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/valid" : [
+      { "value" : "2002", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/tableOfContents" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC/manifest.json", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S10492B5", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492B6", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492B7", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492B8", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492B5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "9.1. Production, Performance and Exhibition of Dance, Music, Theatre and Visual Arts", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492B5", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S10492F1", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492F2", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492F3", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492F4", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492F5", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492F6", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492F7", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492F8", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492F9", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492FA", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492FB", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492FC", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492FD", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492FE", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492FF", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049300", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049301", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049302", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049303", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049304", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049305", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049306", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049307", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049308", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049309", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S104930A", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S104930B", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S104930C", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S104930D", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S104930E", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S104930F", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049310", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049311", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049312", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049313", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049314", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049315", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1049316", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492F1" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A. Know and use the elements and principles of each art form to create works in the arts and humanities.<ul> <li>Elements<\/li><ul> <li>Dance: energy\/force, space, time<\/li> <li>Music: duration, intensity, pitch, timbre<\/li> <li>Theatre: scenario, script\/text, set design<\/li> <li>Visual Arts: color, form\/shape, line, space, texture, value<\/li><\/ul> <li>Principles<\/li><ul> <li>Dance: choreography, form, genre, improvisation, style, technique<\/li> <li>Music: composition, form, genre, harmony, rhythm, texture<\/li> <li>Theatre: balance, collaboration, discipline, emphasis, focus, intention, movement, rhythm, style, voice<\/li> <li>Visual Arts: balance, contrast, emphasis\/focal point, movement\/rhythm, proportion\/scale, repetition, unity\/harmony<\/li><\/ul><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492F1", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492F2" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "B. Recognize, know, use and demonstrate a variety of appropriate arts elements and principles to produce, review and revise original works in the arts.<ul> <li>Dance: move, perform, read and notate dance, create and choreograph, improvise<\/li> <li>Music: sing, play an instrument, read and notate music, compose and arrange, improvise<\/li> <li>Theatre: stage productions, read and write scripts, improvise, interpret a role, design sets, direct<\/li> <li>Visual Arts: paint, draw, craft, sculpt, print, design for environment, communication, multi-media<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492F2", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492F3" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "C. Recognize and use fundamental vocabulary within each of the arts forms.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492F3", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492F4" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "D. Use knowledge of varied styles within each art form through a performance or exhibition of unique work.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492F4", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492F5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "E. Demonstrate the ability to define objects, express emotions, illustrate an action or relate an experience through creation of works in the arts.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492F5", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492F6" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "F. Identify works of others through a performance or exhibition (e.g., exhibition of student paintings based on the study of Picasso).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492F6", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492F7" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "G. Recognize the function of rehearsals and practice sessions.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492F7", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492F8" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "H. Handle materials, equipment and tools safely at work and performance spaces.<ul> <li>Identify materials used.<\/li> <li>Identify issues of cleanliness related to the arts.<\/li> <li>Recognize some mechanical\/electrical equipment.<\/li> <li>Recognize differences in selected physical space\/environments.<\/li> <li>Recognize the need to select safe props\/stage equipment.<\/li> <li>Identify methods for storing materials in the arts.<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492F8", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492F9" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "I. Identify arts events that take place in schools and in communities.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492F9", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492FA" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "J. Know and use traditional and contemporary technologies for producing, performing and exhibiting works in the arts or the works of others.<ul> <li>Know and use traditional technologies (e.g., charcoal, pigments, clay, needle\/thread, quill pens, stencils, tools for wood carving, looms, stage equipment).<\/li> <li>Know and use contemporary technologies (e.g., CDs\/software, audio\/sound equipment, polymers, clays, board-mixers, photographs, recorders).<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492FA", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492FB" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "K. Know and use traditional and contemporary technologies for furthering knowledge and understanding in the humanities.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492FB", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492FC" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "C. Know and use fundamental vocabulary within each of the arts forms.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492FC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492FD" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "D. Describe and use knowledge of a specific style within each art form through a performance or exhibition of a unique work.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492FD", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492FE" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "E. Know and demonstrate how arts can communicate experiences, stories or emotions through the production of works in the arts.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492FE", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492FF" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "F. Describe works of others through performance or exhibition in two art forms.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492FF", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049300" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "G. Identify the function and benefits of rehearsal and practice sessions.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049300", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049301" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "H. Use and maintain materials, equipment and tools safely at work and performance spaces.<ul> <li>Describe some materials used.<\/li> <li>Describe issues of cleanliness related to the arts.<\/li> <li>Describe types of mechanical\/electrical equipment usage.<\/li> <li>Know how to work in selected physical space\/environments.<\/li> <li>Identify the qualities of safe props\/stage equipment.<\/li> <li>Describe methods for storing materials in the arts.<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049301", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049302" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "I. Describe arts events that take place in schools and in communities.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049302", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049303" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "J. Apply traditional and contemporary technologies for producing, performing and exhibiting works in the arts or the works of others.<ul> <li>Experiment with traditional technologies (e.g., ceramic\/wooden tools, earthen clays, masks, instruments, folk shoes, etching tools, folk looms).<\/li> <li>Experiment with contemporary technologies (e.g., color fills on computers, texture methods on computers, fonts\/point systems, animation techniques, video teleconferencing, multimedia techniques, internet access, library computer card catalogues).<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049303", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049304" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "K. Apply traditional and contemporary technology in furthering knowledge and understanding in the humanities.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049304", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049305" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "C. Identify and use comprehensive vocabulary within each of the arts forms.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049305", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049306" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "D. Demonstrate knowledge of at least two styles within each art form through performance or exhibition of unique works.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049306", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049307" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "E. Communicate a unifying theme or point of view through the production of works in the arts.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049307", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049308" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "F. Explain works of others within each art form through performance or exhibition.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049308", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049309" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "G. Explain the function and benefits of rehearsal and practice sessions.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049309", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S104930A" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "H. Demonstrate and maintain materials, equipment and tools safely at work and performance spaces.<ul> <li>Analyze the use of materials.<\/li> <li>Explain issues of cleanliness related to the arts.<\/li> <li>Explain the use of mechanical\/electrical equipment.<\/li> <li>Demonstrate how to work in selected physical space\/environment.<\/li> <li>Demonstrate the selection of safe props\/stage equipment.<\/li> <li>Demonstrate methods for storing materials in the arts.<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S104930A", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S104930B" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "I. Know where arts events, performances and exhibitions occur and how to gain admission.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S104930B", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S104930C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "J. Incorporate specific uses of traditional and contemporary technologies within the design for producing, performing and exhibiting works in the arts or the works of others.<ul> <li>Explain and demonstrate traditional technologies (e.g., paint, tools, sponges, weaving designs, instruments, natural pigments\/glazes).<\/li> <li>Explain and demonstrate contemporary technologies (e.g., MIDI keyboards, Internet design, computers, interactive technologies, audio\/sound equipment, board-mixer, video equipment, computerized lighting design).<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S104930C", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S104930D" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "K. Incorporate specific uses of traditional and contemporary technologies in furthering knowledge and understanding in the humanities.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S104930D", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S104930E" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "C. Integrate and apply advanced vocabulary to the arts forms.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S104930E", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S104930F" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "D. Demonstrate specific styles in combination through the production or performance of a unique work of art (e.g., a dance composition that combines jazz dance and African dance).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S104930F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049310" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "E. Delineate a unifying theme through the production of a work of art that reflects skills in media processes and techniques.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049310", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049311" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "F. Analyze works of arts influenced by experiences or historical and cultural events through production, performance or exhibition.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049311", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049312" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "G. Analyze the effect of rehearsal and practice sessions.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049312", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049313" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "H. Incorporate the effective and safe use of materials, equipment and tools into the production of works in the arts at work and performance spaces.<ul> <li>Evaluate the use and applications of materials.<\/li> <li>Evaluate issues of cleanliness related to the arts.<\/li> <li>Evaluate the use and applications of mechanical\/electrical equipment.<\/li> <li>Evaluate differences among selected physical space\/environment.<\/li> <li>Evaluate the use and applications of safe props\/stage equipment.<\/li> <li>Evaluate the use and apply safe methods for storing materials in the arts.<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049313", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049314" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "I. Distinguish among a variety of regional arts events and resources and analyze methods of selection and admission.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049314", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049315" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "J. Analyze and evaluate the use of traditional and contemporary technologies for producing, performing and exhibiting works in the arts or the works of others.<ul> <li>Analyze traditional technologies (e.g., acid printing, etching methods, musical instruments, costume materials, eight track recording, super 8 movies).<\/li> <li>Analyze contemporary technologies (e.g., virtual reality design, instrument enhancements, photographic tools, broadcast equipment, film cameras, preservation tools, web graphics, computer generated marching band designs).<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049315", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1049316" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "K. Analyze and evaluate the use of traditional and contemporary technologies in furthering knowledge and understanding in the humanities.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1049316", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492B6" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "9.2. Historical and Cultural Contexts", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492B6", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S10492E5", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492E6", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492E7", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492E8", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492E9", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492EA", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492EB", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492EC", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492ED", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492EE", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492EF", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492F0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492E5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A. Explain the historical, cultural and social context of an individual work in the arts.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492E5", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492E6" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "B. Relate works in the arts chronologically to historical events (e.g., 10,000 B.C. to present).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492E6", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492E7" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "C. Relate works in the arts to varying styles and genre and to the periods in which they were created (e.g., Bronze Age, Ming Dynasty, Renaissance, Classical, Modern, Post-Modern, Contemporary, Futuristic, others).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492E7", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492E8" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "D. Analyze a work of art from its historical and cultural perspective.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492E8", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492E9" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "E. Analyze how historical events and culture impact forms, techniques and purposes of works in the arts (e.g., Gilbert and Sullivan operettas)", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492E9", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492EA" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "F. Know and apply appropriate vocabulary used between social studies and the arts and humanities.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492EA", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492EB" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "G. Relate works in the arts to geographic regions:<ul> <li>Africa<\/li> <li>Asia<\/li> <li>Australia<\/li> <li>Central America<\/li> <li>Europe<\/li> <li>North America<\/li> <li>South America<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492EB", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492EC" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "H. Identify, describe and analyze the work of Pennsylvania Artists in dance, music, theatre and visual arts.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492EC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492ED" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "I. Identify, explain and analyze philosophical beliefs as they relate to works in the arts (e.g., classical architecture, rock music, Native American dance, contemporary American musical theatre).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492ED", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492EE" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "J. Identify, explain and analyze historical and cultural differences as they relate to works in the arts (e.g., PLAYS BY Shakespeare, works by Michelangelo, ethnic dance and music).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492EE", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492EF" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "K. Identify, explain and analyze traditions as they relate to works in the arts (e.g., story telling \u2013 plays, oral histories- poetry, work songs- blue grass).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492EF", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492F0" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "L. Identify, explain and analyze common themes, forms and techniques from works in the arts (e.g., Copland and Graham's Appalachian Spring and Millet's The Gleaners).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492F0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492B7" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "9.3. Critical Response", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492B7", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S10492C9", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492CA", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492CB", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492CC", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492CD", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492CE", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492CF", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492D0", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492D1", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492D2", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492D3", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492D4", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492D5", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492D6", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492D7", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492D8", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492D9", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492DA", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492DB", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492DC", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492DD", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492DE", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492DF", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492E0", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492E1", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492E2", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492E3", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492E4", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492C9" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A. Recognize critical processes used in the examination of works in the arts and humanities.<ul> <li>Compare and contrast<\/li> <li>Analyze<\/li> <li>Interpret<\/li> <li>Form and test hypotheses<\/li> <li>Evaluate\/form judgments<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492C9", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492CA" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "B. Know that works in the arts can be described by using the arts elements, principles and concepts (e.g., use of color, shape and pattern in Mondrian's Broadway Boogie-Woogie; use of dynamics, tempo, texture in Ravel's Bolero).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492CA", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492CB" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "C. Know classification skills with materials and processes used to create works in the arts (e.g., sorting and matching textiles, musical chants, television comedies).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492CB", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492CC" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "D. Explain meanings in the arts and humanities through individual works and the works of others using a fundamental vocabulary of critical response.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492CC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492CD" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "E. Recognize and identify types of critical analysis in the arts and humanities.<ul> <li>Contextual criticism<\/li> <li>Formal criticism<\/li> <li>Intuitive criticism<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492CD", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492CE" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "F. Know how to recognize and identify similar and different characteristics among works in the arts (e.g., Amish and Hawaiian quilts, Navaho weavings and Kente cloth from West Africa).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492CE", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492CF" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "G. Know and demonstrate what a critic's position or opinion is related to works in the arts and humanities (e.g., I like patriotic songs because\u2026; The movie was enjoyed for its exceptional special effects).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492CF", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492D0" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A. Identify critical processes in the examination of works in the arts and humanities.<ul> <li>Compare and contrast<\/li> <li>Analyze<\/li> <li>Interpret<\/li> <li>Form and test hypotheses<\/li> <li>Evaluate\/form judgments<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492D0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492D1" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "B. Describe works in the arts comparing similar and contrasting characteristics (e.g., staccato in Grieg's In the Hall of the Mountain King and in tap dance).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492D1", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492D2" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "C. Classify works in the arts by forms in which they are found (e.g., farce, architecture, graphic design).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492D2", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492D3" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "D. Compare similar and contrasting important aspects of works in the arts and humanities based on a set of guidelines using a comprehensive vocabulary of critical response.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492D3", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492D4" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "E. Describe and use types of critical analysis in the arts and humanities.<ul> <li>Contextual criticism<\/li> <li>Formal criticism<\/li> <li>Intuitive criticism<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492D4", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492D5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "F. Know how to recognize the process of criticism in identifying and analyzing characteristics among works in the arts.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492D5", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492D6" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "G. Describe a critic's position or opinion about selected works in the arts and humanities (e.g., student's presentation of a critical position on Walt Disney's Evolution of Mickey and Minnie Mouse).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492D6", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492D7" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A. Know and use the critical process of the examination of works in the arts and humanities.<ul> <li>Compare and contrast<\/li> <li>Analyze<\/li> <li>Interpret<\/li> <li>Form and test hypotheses<\/li> <li>Evaluate\/form judgments<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492D7", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492D8" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "B. Analyze and interpret specific characteristics of works in the arts within each art form (e.g., pentatonic scales in Korean and Indonesian music).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492D8", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492D9" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "C. Identify and classify styles, forms, types and genre within art forms (e.g., modern dance and the ethnic dance, a ballad and a patriotic song).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492D9", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492DA" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "D. Evaluate works in the arts and humanities using a complex vocabulary of critical response.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492DA", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492DB" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "E. Interpret and use various types of critical analysis in the arts and humanities.<ul> <li>Contextual criticism<\/li> <li>Formal criticism<\/li> <li>Intuitive criticism<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492DB", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492DC" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "F. Apply the process of criticism to identify characteristics among works in the arts.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492DC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492DD" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "G. Compare and contrast critical positions or opinions about selected works in the arts and humanities (e.g., critic's review and comparison of Alvin Ailey's Revelations to Tchaikovsky's Swan Lake).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492DD", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492DE" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A. Explain and apply the critical examination processes of works in the arts and humanities.<ul> <li>Compare and contrast<\/li> <li>Analyze<\/li> <li>Interpret<\/li> <li>Form and test hypotheses<\/li> <li>Evaluate\/form judgments<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492DE", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492DF" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "B. Determine and apply criteria to a person's work and works of others in the arts (e.g., use visual scanning techniques to critique the student's own use of sculptural space in comparison to Julio Gonzales' use of space in Woman Combing Her Hair).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492DF", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492E0" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "C. Apply systems of classification for interpreting works in the arts and forming a critical response.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492E0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492E1" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "D. Analyze and interpret works in the arts and humanities from different societies using culturally specific vocabulary of critical response.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492E1", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492E2" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "E. Examine and evaluate various types of critical analysis of works in the arts and humanities.<ul> <li>Contextual criticism<\/li> <li>Formal criticism<\/li> <li>Intuitive criticism<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492E2", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492E3" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "F. Analyze the processes of criticism used to compare the meanings of a work in the arts in both its own and present time.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492E3", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492E4" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "G. Analyze works in the arts by referencing the judgments advanced by arts critics as well as one's own analysis and critique.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492E4", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492B8" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "9.4. Aesthetic Response", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492B8", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S10492B9", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492BA", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492BB", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492BC", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492BD", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492BE", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492BF", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492C0", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492C1", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492C2", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492C3", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492C4", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492C5", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492C6", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492C7", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10492C8", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492B9" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A. Know how to respond to a philosophical statement about works in the arts and humanities (e.g., \"Can artworks that depict or are about ugly or unpleasant things ever be beautiful?\").", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492B9", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492BA" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "B. Know how to communicate an informed individual opinion about the meaning of works in the arts (e.g., works of an artist of the month).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492BA", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492BB" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "C. Recognize that the environment of the observer influences individual aesthetic responses to works in the arts (e.g., the effect of live music as opposed to listening to the same piece on a car radio).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492BB", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492BC" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "D. Recognize that choices made by artists regarding subject matter and themes communicate ideas through works in the arts and humanities (e.g., artist's interpretation through the use of classical ballet of the American West in Agnes De Mille's Rodeo).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492BC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492BD" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A. Identify uses of expressive symbols that show philosophical meanings in works in the arts and humanities (e.g., American TV ads versus Asian TV ads).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492BD", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492BE" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "B. Investigate and communicate multiple philosophical views about works in the arts.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492BE", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492BF" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "C. Identify the attributes of various audiences' environments as they influence individual aesthetic response (e.g., Beatles' music played by the Boston Pops versus video taped concerts from the 1970s).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492BF", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492C0" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "D. Explain choices made regarding media, technique, form, subject matter and themes that communicate the artist's philosophy within a work in the arts and humanities (e.g., selection of stage lighting in Leonard Bernstein's West Side Story to communicate mood).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492C0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492C1" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A. Compare and contrast examples of group and individual philosophical meanings of works in the arts and humanities (e.g., group discussions on musical theatre versus the individual's concept of musical theatre).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492C1", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492C2" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "B. Compare and contrast informed individual opinions about the meaning of works in the arts to others (e.g., debate philosophical opinions within a listserve or at an artist's website).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492C2", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492C3" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "C. Describe how the attributes of the audience's environment influence aesthetic responses (e.g., the ambiance of the theatre in a performance of Andrew Lloyd Weber's Cats).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492C3", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492C4" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "D. Describe to what purpose philosophical ideas generated by artists can be conveyed through works in the arts and humanities (e.g., T. Ganson's Destructive Periods in Russia During Stalin's and Deniken's Leadership conveys her memories and emotions of a specific incident).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492C4", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492C5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A. Evaluate an individual's philosophical statement on a work in the arts and its relationship to one's own life based on knowledge and experience.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492C5", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492C6" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "B. Describe and analyze the effects that works in the arts have on groups, individuals and the culture (e.g., Orson Welles' 1938 radio broadcast, War of the Worlds).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492C6", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492C7" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "C. Compare and contrast the attributes of various audiences' environments as they influence individual aesthetic response (e.g., viewing traditional Irish dance at county fair versus the performance of River Dance in a concert hall).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492C7", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10492C8" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10002DC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/theArts", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "D. Analyze and interpret a philosophical position identified in works in the arts and humanities.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10492C8", "type" : "uri" }
+    ]
+  } 
+}

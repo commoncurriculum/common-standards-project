@@ -1,0 +1,61 @@
+[
+  {
+    "id":"S1143443",
+    "authorityStatus":"Original Statement",
+    "language":"English",
+    "indexingStatus":"Yes",
+    "subject":"Math",
+    "leaf":"true",
+    "asnParent":"S1143433",
+    "asnIdentifier":"S1143443",
+    "statement":"Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used. Understand that in adding two-digit numbers, one adds tens and tens, ones and ones; and sometimes it is necessary to compose a ten.",
+    "listIdentifier":"4",
+    "asnStatementNotation":"1.NBT.4",
+    "ccssiSimplifiedDotNotation":"1.NBT.4",
+    "gradeLevels":[
+      "01"
+    ],
+    "jurisdiction":"Common Core State Standards Initiative",
+    "jurisdictionAbbreviation":"CC",
+    "ccsiParent":"68702F4D7C994AF1AEFF699CEB567C56"
+  },
+  {
+    "id":"S1143444",
+    "authorityStatus":"Original Statement",
+    "language":"English",
+    "indexingStatus":"Yes",
+    "subject":"Math",
+    "leaf":"true",
+    "asnParent":"S1143433",
+    "asnIdentifier":"S1143444",
+    "statement":"Given a two-digit number, mentally find 10 more or 10 less than the number, without having to count; explain the reasoning used.",
+    "listIdentifier":"5",
+    "asnStatementNotation":"1.NBT.5",
+    "ccssiSimplifiedDotNotation":"1.NBT.5",
+    "gradeLevels":[
+      "01"
+    ],
+    "jurisdiction":"Common Core State Standards Initiative",
+    "jurisdictionAbbreviation":"CC",
+    "ccsiParent":"68702F4D7C994AF1AEFF699CEB567C56"
+  },
+  {
+    "id":"S1143445",
+    "authorityStatus":"Original Statement",
+    "language":"English",
+    "indexingStatus":"Yes",
+    "subject":"Math",
+    "leaf":"true",
+    "asnParent":"S1143433",
+    "asnIdentifier":"S1143445",
+    "statement":"Subtract multiples of 10 in the range 10-90 from multiples of 10 in the range 10-90 (positive or zero differences), using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.",
+    "listIdentifier":"6",
+    "asnStatementNotation":"1.NBT.6",
+    "ccssiSimplifiedDotNotation":"1.NBT.6",
+    "gradeLevels":[
+      "01"
+    ],
+    "jurisdiction":"Common Core State Standards Initiative",
+    "jurisdictionAbbreviation":"CC",
+    "ccsiParent":"68702F4D7C994AF1AEFF699CEB567C56"
+  }]

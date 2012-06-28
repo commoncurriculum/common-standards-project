@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ScottMessinger/code/commoncurriculum/standards/exports/cc-guids-munged.json",
+		"/Users/ScottMessinger/code/commoncurriculum/standards/JSON-XML/ASN common core math pretty printed.json",
+		"/Users/ScottMessinger/code/commoncurriculum/spike/sample_curricula/robbie_earle/entire_unit.rb",
+		"/Users/ScottMessinger/code/commoncurriculum/standards/exports/ASN-CC-munged.json",
+		"/Users/ScottMessinger/code/commoncurriculum/spike/sample_curricula/robbie_earle/8th_longer.rb",
+		"/Users/ScottMessinger/code/folio/app/views/invites/new.html.haml",
+		"/Users/ScottMessinger/code/folio/app/views/dashboard/index.html.haml",
+		"/Users/ScottMessinger/code/folio/app/views/employees/_visibility_item.html.haml",
+		"/Users/ScottMessinger/code/folio/public/css/all.css",
+		"/Users/ScottMessinger/code/folio/app/views/comments/index.html.haml",
+		"/Users/ScottMessinger/code/folio/app/views/group_comparison_report/show.html.haml",
+		"/Users/ScottMessinger/code/folio/app/views/employees/show.html.haml",
+		"/Users/ScottMessinger/code/folio/app/models/ability.rb",
+		"/Users/ScottMessinger/code/folio/app/controllers/authenticated_controller.rb",
+		"/Users/ScottMessinger/code/folio/app/controllers/application_controller.rb",
+		"/Users/ScottMessinger/code/folio/db/schema.rb",
+		"/Users/ScottMessinger/code/folio/db/migrate/20120426143947_add_send_monthly_goals_reminder_to_profile_customization_set.rb",
+		"/Users/ScottMessinger/code/folio/db/migrate/20120618121028_add_invite_to_profile_customization_set.rb",
+		"/Users/ScottMessinger/code/folio/app/views/profile_customization_sets/edit.html.haml",
+		"/Users/ScottMessinger/code/folio/app/views/employees/_visibility.html.haml",
+		"/Users/ScottMessinger/code/folio/app/views/layouts/application.html.haml",
+		"/Users/ScottMessinger/code/folio/app/views/shared/_toggle.html.haml",
+		"/Users/ScottMessinger/code/folio/app/helpers/application_helper.rb",
+		"/Users/ScottMessinger/code/folio/app/controllers/profile_pages_controller.rb",
+		"/Users/ScottMessinger/code/folio/app/controllers/notes_pages_controller.rb",
+		"/Users/ScottMessinger/code/folio/app/controllers/comments_controller.rb",
+		"/Users/ScottMessinger/code/folio/app/views/comments/_goals_meeting.html.haml",
+		"/Users/ScottMessinger/.irbrc",
+		"/Users/ScottMessinger/code/folio/vendor/plugins/.gitkeep",
+		"/Users/ScottMessinger/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ScottMessinger/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/ScottMessinger/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ScottMessinger/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ScottMessinger/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/ScottMessinger/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/ScottMessinger/Dropbox/startup/Digitizing Standards/AB Common Core All Grades formatted.json",
+		"/Users/ScottMessinger/Dropbox/startup/Digitizing Standards/arizon math standards pretty printed.json",
+		"/Users/ScottMessinger/Dropbox/startup/Digitizing Standards/ASN common core math not nested.json",
+		"/Users/ScottMessinger/Dropbox/startup/Digitizing Standards/md math standards pretty printed.json",
+		"/Users/ScottMessinger/json.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1.nbt.a",
+			"feedback",
+			"invite",
+			"can_view_employee",
+			"authenticate_user!",
+			"Meetings",
+			"ignored",
+			"vim",
+			"1.nbt",
+			"1.nbt.4",
+			"1.nbt",
+			"S1143431",
+			"extend the coun",
+			"1.nbt",
+			"D10003FB",
+			"assessment limit",
+			"NBT",
+			"1.nbt.4",
+			"asd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rob",
+				"robbie_earle/8th_longer.rb"
+			],
+			[
+				"org",
+				"app/models/organization.rb"
+			],
+			[
+				"visiit",
+				"app/views/employees/_visibility_item.html.haml"
+			],
+			[
+				"inviteham",
+				"app/views/invites/new.html.haml"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"emplshow",
+				"app/views/employees/show.html.haml"
+			],
+			[
+				"dashboardin",
+				"app/views/dashboard/index.html.haml"
+			],
+			[
+				"profilela",
+				"app/views/layouts/profile.html.haml"
+			],
+			[
+				"visibi",
+				"app/views/employees/_visibility_item.html.haml"
+			],
+			[
+				"invite.ha",
+				"app/views/invites/new.html.haml"
+			],
+			[
+				".css",
+				"public/css/all.css"
+			],
+			[
+				"appli.ha",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"visibilit",
+				"app/views/employees/_visibility.html.haml"
+			],
+			[
+				"invite.haml",
+				"app/views/invites/new.html.haml"
+			],
+			[
+				"profilecuset",
+				"db/migrate/20120426143947_add_send_monthly_goals_reminder_to_profile_customization_set.rb"
+			],
+			[
+				"addinvi",
+				"db/migrate/20120618121028_add_invite_to_profile_customization_set.rb"
+			],
+			[
+				"share/tol",
+				"app/views/shared/_toggle.html.haml"
+			],
+			[
+				"profilcuedi",
+				"app/views/profile_customization_sets/edit.html.haml"
+			],
+			[
+				"app.haml",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"appli",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"dashin",
+				"app/views/dashboard/index.html.haml"
+			],
+			[
+				"note",
+				"app/controllers/notes_pages_controller.rb"
+			],
+			[
+				"comscon",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"profilcon",
+				"app/controllers/profile_pages_controller.rb"
+			],
+			[
+				"auth",
+				"app/controllers/authenticated_controller.rb"
+			],
+			[
+				"",
+				"vendor/plugins/.gitkeep"
+			],
+			[
+				"aplihelp",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"appliccon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"authe",
+				"app/controllers/authenticated_controller.rb"
+			],
+			[
+				"goalsmet.haml",
+				"app/views/comments/_goals_meeting.html.haml"
+			],
+			[
+				"commentinex",
+				"app/views/comments/index.html.haml"
+			],
+			[
+				"empsho",
+				"app/views/employees/show.html.haml"
+			],
+			[
+				"usershow",
+				"app/views/group_comparison_report/show.html.haml"
+			],
+			[
+				"abil",
+				"app/models/ability.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

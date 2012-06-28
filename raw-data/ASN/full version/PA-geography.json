@@ -1,0 +1,1904 @@
+{
+  "http://asn.jesandco.org/resources/D10001A5.json" : {
+    "http://xmlns.com/foaf/0.1/primaryTopic" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/rightsHolder" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/dc/terms/modified" : [
+      { "value" : "2011-03-02T10:41:37-05:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2011-03-02T10:41:37-05:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/elements/1.1/creator" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://creativecommons.org/ns#license" : [
+      { "value" : "http://creativecommons.org/licenses/by/3.0/us/", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionURL" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionName" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/ASN/schema/core/exportVersion" : [
+      { "value" : "http://purl.org/ASN/export/3.1.0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/D10001A5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/StandardDocument", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/jurisdiction" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNJurisdiction/PA", "type" : "uri" }
+    ],
+    "http://purl.org/dc/elements/1.1/title" : [
+      { "value" : "Academic Standards for Geography", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The Geography Standards describe what students should know and be able to do at four grade levels (third, sixth, ninth and twelfth). They reflect the increasingly complex and sophisticated understanding of geography that students are expected to achieve as they progress through school. Throughout the standards, all grade levels must address the local-to-global progression (scales). Basic concepts found in lower grade levels must be developed more fully at higher grade levels.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/ASN/schema/core/publicationStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNPublicationStatus/Published", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/repositoryDate" : [
+      { "value" : "2011-03-02", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/valid" : [
+      { "value" : "2003", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/tableOfContents" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5/manifest.json", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S101A449", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S101A449" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Academic Standards for Geography", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S101A449", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1015B12", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S100429C", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1003A15", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S100A4A8", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1015B12" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "7.1. Basic Geographic Literacy", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1015B12", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S101723D", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S100C7B6", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10213DB", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S101C5CD", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S101720C", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1014FEE", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1026DD5", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10084A8", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S101723D" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.1.3.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify geographic tools and their uses. <ul> <li>Characteristics and purposes of different geographic representations<\/li><ul> <li>Maps and basic map elements<\/li> <li>Globes<\/li> <li>Graphs<\/li> <li>Diagrams<\/li> <li>Photographs<\/li><\/ul> <li>Geographic representations to display spatial information<\/li> <ul> <li>Sketch maps<\/li> <li>Thematic maps<\/li> <\/ul> <li>Mental maps to describe the human and physical features of the local area<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S101723D", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S100C7B6" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.1.3.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify and locate places and regions. <ul><li>Physical features<\/li><ul> <li>Continents and oceans<\/li> <li>Major landforms, rivers and lakes in North America<\/li> <li>Local community<\/li><\/ul> <li>Human features<\/li><ul> <li>Countries (i.e., United States, Mexico, Canada)<\/li> <li>States (i.e., Pennsylvania, Delaware, Maryland, New Jersey, New York, Ohio, West Virginia)<\/li> <li>Cities (i.e., Philadelphia, Erie, Altoona, Pittsburgh, Scranton, Harrisburg, Johnstown, Allentown, Washington D.C., Baltimore, New York, Toronto, Cleveland)<\/li> <li>Local community<\/li><\/ul> <li>Regions as areas with unifying geographic characteristics<\/li><ul> <li>Physical regions (e.g., landform regions, climate regions, river basins)<\/li> <li>Human regions (e.g., neighborhoods, cities, states, countries)<\/li><\/ul><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S100C7B6", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10213DB" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.1.6.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe geographic tools and their uses.<ul> <li>Basis on which maps, graphs and diagrams are created<\/li><ul> <li>Aerial and other photographs<\/li> <li>Reference works<\/li> <li>Field observations<\/li> <li>Surveys<\/li><\/ul> <li>Geographic representations to display spatial information<\/li><ul> <li>Absolute location<\/li> <li>Relative location<\/li> <li>Flows (e.g., goods, people, traffic)<\/li> <li>Topography<\/li> <li>Historic events<\/li><\/ul> <li>Mental maps to organize an understanding of the human and physical features of Pennsylvania and the home county<\/li> <li>Basic spatial elements for depicting the patterns of physical and human features<\/li><ul> <li>Point, line, area, location, distance, scale<\/li> <li>Map grids<\/li> <li>Alpha-numeric system<\/li> <li>Cardinal and intermediate directions<\/li><\/ul><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10213DB", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S101C5CD" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.1.6.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe and locate places and regions.<ul> <li>Coordinate systems (e.g., latitude and longitude, time zones)<\/li> <li>Physical features<\/li><ul> <li>In the United States (e.g., Great Lakes, Rocky Mountains, Great Plains)<\/li> <li>In Pennsylvania (e.g., Coastal Plain, Piedmont, Appalachians)<\/li><\/ul> <li>Human features<\/li><ul> <li>Countries (e.g., United Kingdom, Argentina, Egypt)<\/li> <li>Provinces (e.g., Ontario, Quebec, Nova Scotia)<\/li> <li>Major human regions (e.g., Mid Atlantic, New England, Southwest)<\/li> <li>States (e.g., California, Massachusetts, Florida)<\/li> <li>Major cities (e.g., London, Los Angeles, Tokyo)<\/li> <li>Counties (e.g., Lancaster, Lackawanna, Jefferson)<\/li> <li>Townships (e.g., Dickinson, Lower Mifflin, Southampton)<\/li><\/ul> <li>Ways in which different people view places and regions (e.g., places to visit or to avoid)<\/li> <li>Community connections to other places<\/li><ul> <li>Dependence and interdependence<\/li> <li>Access and movement<\/li><\/ul><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S101C5CD", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S101720C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.1.9.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain geographic tools and their uses.<ul> <li>Development and use of geographic tools<\/li><ul> <li>Geographic information systems [GIS]<\/li> <li>Population pyramids<\/li> <li>Cartograms<\/li> <li>Satellite-produced images<\/li> <li>Climate graphs<\/li> <li>Access to computer-based geographic data (e.g., Internet, CD-ROMs)<\/li><\/ul> <li>Construction of maps<\/li><ul> <li>Projections<\/li> <li>Scale<\/li> <li>Symbol systems<\/li> <li>Level of generalization<\/li> <li>Types and sources of data<\/li><\/ul> <li>Geographic representations to track spatial patterns<\/li><ul> <li>Weather<\/li> <li>Migration<\/li> <li>Environmental change (e.g., tropical forest reduction, sea-level changes)<\/li><\/ul> <li>Mental maps to organize and understand the human and physical features of the United States<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S101720C", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1014FEE" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.1.9.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain and locate places and regions. <ul> <li>How regions are created to interpret Earth's complexity (i.e., the differences among formal regions, functional regions, perceptual regions)<\/li> <li>How characteristics contribute to regional changes (e.g., economic development, accessibility, demographic change)<\/li> <li>How culture and experience influence perceptions of places and regions<\/li> <li>How structures and alliances impact regions<\/li> <ul> <li>Development (e.g., First vs. Third World, North vs. South)<\/li> <li>Trade (e.g., NAFTA, the European Union)<\/li> <li>International treaties (e.g., NATO, OAS)<\/li><\/ul> <li>How regions are connected (e.g., watersheds and river systems, patterns of world trade, cultural ties, migration)<\/li> <\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1014FEE", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1026DD5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.1.12.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze data and issues from a spatial perspective using the appropriate geographic tools.<ul> <li>Spatial patterns of human features that change over time (e.g., intervening opportunity, distance decay, central place theory, locational preference)<\/li> <li>Physical patterns of physical features that change over time (e.g., climate change, erosion, ecological invasion and succession)<\/li> <li>Human and physical features of the world through mental maps<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1026DD5", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10084A8" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.1.12.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the location of places and regions.<ul> <li>Changing regional characteristics (e.g., short- and long-term climate shifts; population growth or decline; political instability)<\/li> <li>Criteria to define a region (e.g., the reshaping of south Florida resulting from changing migration patterns; the USMexico border changes as a function of NAFTA; metropolitan growth in the Philadelphia region)<\/li> <li>Cultural change (e.g., influence on people's perceptions of places and regions)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10084A8", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S100429C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "7.2. The Physical Characteristics of Places and Regions", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S100429C", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S101FB80", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S100E5C7", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1004F99", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1013907", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10064C7", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10057D6", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1007720", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S10137E1", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S101FB80" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.2.3.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify the physical characteristics of places and regions. <ul><li>Physical properties<\/li><ul> <li>Landforms (e.g., plains, hills, plateaus and mountains)<\/li> <li>Bodies of water (e.g., rivers, lakes, seas and oceans)<\/li> <li>Weather and climate<\/li> <li>Vegetation and animals<\/li><\/ul> <li>Earth's basic physical systems<\/li><ul> <li>Lithosphere<\/li> <li>Hydrosphere<\/li> <li>Atmosphere<\/li> <li>Biosphere<\/li><\/ul><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S101FB80", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S100E5C7" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.2.3.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify the basic physical processes that affect the physical characteristics of places and regions. <ul><li>Earth-sun relationships (i.e., seasons and length of daylight, weather and climate)<\/li><li>Extreme physical events (e.g., earthquakes, floods, hurricanes, tornadoes)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S100E5C7", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1004F99" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.2.6.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the physical characteristics of places and regions. <ul><li>Components of Earth's physical systems (e.g., clouds, storms, relief and elevation [topography], tides, biomes, tectonic plates)<\/li><li>Comparison of the physical characteristics of different places and regions (e.g., soil, vegetation, climate, topography)<\/li><li>Climate types (e.g., marine west coast, humid continental, tropical wet and dry)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1004F99", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1013907" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.2.6.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the physical processes that shape patterns on Earth's surface. <ul><li>Earth-sun relationships (i.e., differences between equinoxes and solstices, reasons they occur and their relationship to latitude)<\/li><li>Climate influences (e.g., elevation, latitude, nearby ocean currents)<\/li><li>Climate change, (e.g., global warming\/cooling, desertification, glaciations)<\/li><li>Plate tectonics<\/li><li>Hydrologic cycle<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1013907", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10064C7" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.2.9.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the physical characteristics of places and regions including spatial patterns of Earth's physical systems.<ul><li>Climate regions<\/li><li>Landform regions.<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10064C7", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10057D6" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.2.9.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the dynamics of the fundamental processes that underlie the operation of Earth's physical systems.<ul><li>Wind systems<\/li><li>Water cycle<\/li><li>Erosion\/deposition cycle<\/li><li>Plate tectonics<\/li><li>Ocean currents<\/li><li>Natural hazards<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10057D6", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1007720" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.2.12.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the physical characteristics of places and regions including the interrelationships among the components of Earth's physical systems.<ul><li>Biomes and ecosystem regions<\/li><li>Watersheds and river basins<\/li><li>World patterns of biodiversity<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1007720", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S10137E1" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.2.12.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the significance of physical processes in shaping the character of places and regions.<ul><li>Circulation of the oceans<\/li><li>Ecosystem processes<\/li><li>Atmospheric systems<\/li><li>Extreme natural events<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S10137E1", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1003A15" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "7.3. The Human Characteristics of Places and Regions", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1003A15", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S101CA63", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S100C816", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1015B19", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S101037C", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1014BB4", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S100B8AF", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S101D81F", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S100AE87", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S101F05A", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S101FD7D", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S101C72C", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1012B4A", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1000B54", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1006105", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1019923", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S100C423", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1010290", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1006F26", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S101414F", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S100D89C", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S101CA63" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.3.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify the human characteristics of places and regions by their population characteristics. <ul><li>The number and distribution of people in the local community<\/li><li>Human movement in the local community (e.g., mobility in daily life, migration)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S101CA63", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S100C816" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.3.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify the human characteristics of places and regions by their cultural characteristics. <ul><li>Components of culture (e.g., language, belief systems and customs, social organizations, foods, ethnicity)<\/li><li>Ethnicity of people in the local community (e.g., customs, celebrations, languages, religions) <\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S100C816", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1015B19" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.3.C", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify the human characteristics of places and regions by their settlement characteristics. <ul><li>Types of settlements (e.g., villages, towns, suburbs, cities, metropolitan areas)<\/li><li>Factors that affect where people settle (e.g., water, resources, transportation)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1015B19", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S101037C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.3.D", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify the human characteristics of places and regions by their economic activities. <ul><li>Location factors in the spatial distribution of economic activities (e.g., market, transportation, workers, materials)<\/li><ul> <li>Producers of consumer products and services (e.g., bread, pizza, television, shopping malls)<\/li> <li>Products of farms and factories at the local and regional level (e.g., mushrooms, milk, snack foods, furniture)<\/li><\/ul> <li>Spatial distribution of resources<\/li><ul> <li>Non-renewable resources<\/li> <li>Renewable resources<\/li> <li>Flow resources (e.g., water power, wind power)<\/li><\/ul><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S101037C", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1014BB4" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.3.E", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify the human characteristics of places and regions by their political activities. <ul><li>Type of political units (e.g., townships, boroughs, towns, cities, counties, states, countries [nation state])<\/li><li>Political units in the local area<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1014BB4", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S100B8AF" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.6.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the human characteristics of places and regions by their population characteristics. <ul><li>Spatial distribution, size, density and demographic characteristics of population at the county and state level.<\/li><li>Causes of human movement<\/li><ul> <li>Mobility (e.g., shopping, commuting, recreation)<\/li> <li>Migration models (e.g., push\/pull factors, barriers to migration)<\/li><\/ul><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S100B8AF", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S101D81F" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.6.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the human characteristics of places and regions by their cultural characteristics.<ul><li>Ethnicity of people at the county and state levels (e.g., customs, celebrations, languages, religions)<\/li><li>Spatial arrangement of cultures creates distinctive landscapes (e.g., cultural regions based on languages, customs, religion, building styles as in the Pennsylvania German region)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S101D81F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S100AE87" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.6.C", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the human characteristics of places and regions by their settlement characteristics.<ul><li>Current and past settlement patterns in the local area.<\/li><li>Factors that affect the growth and decline of settlements (e.g., immigration, transportation development, depletion of natural resources, site and situation)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S100AE87", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S101F05A" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.6.D", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the human characteristics of places and regions by their economic activities.<ul><li>Spatial distribution of economic activities in the local area (e.g., patterns of agriculture, forestry, mining, retailing, manufacturing, services)<\/li><li>Factors that influence the location and spatial distribution of economic activities (e.g., market size for different types of business, accessibility, modes of transportation used to move people, goods and materials)<\/li><li>Spatial distribution of resources and their relationship to population distribution<\/li><ul><li>Historical settlement patterns and natural resource use (e.g., waterpower sites along the Fall Line)<\/li><li>Natural resource-based industries (e.g., agriculture, mining, fishing, forestry)<\/li><\/ul><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S101F05A", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S101FD7D" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.6.E", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the human characteristics of places and regions by their political activities.<ul><li> Spatial pattern of political units in Pennsylvania<\/li><li>Functions of political units (e.g., counties, municipalities, townships, school districts, PA General Assembly districts (House and Senate), U.S. Congressional districts, states)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S101FD7D", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S101C72C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.9.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the human characteristics of places and regions by their population characteristics.<ul><li>Spatial distribution, size, density and demographic characteristics of population at the state and National level.<\/li><li>Demographic structure of a population (e.g., life expectancy, fertility rate, mortality rate, infant mortality rate, population growth rate, the demographic transition model)<\/li><li>Effects of different types and patterns of human movement<\/li><ul><li>Mobility (e.g., travel for business)<\/li><li>Migration (e.g., rural to urban, short term vs. long term, critical distance)<\/li><\/ul><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S101C72C", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1012B4A" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.9.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the human characteristics of places and regions by their cultural characteristics.<ul><li>Ethnicity of people at national levels (e.g., customs, celebrations, languages, religions)<\/li><li>Culture distribution (e.g., ethnic enclaves and neighborhoods)<\/li><li>Cultural diffusion (e.g., acculturation and assimilation, cultural revivals of language)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1012B4A", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1000B54" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.9.C", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the human characteristics of places and regions by their settlement characteristics.<ul><li>Current and past settlement patterns in Pennsylvania and the United States<\/li><li>Forces that have re-shaped modern settlement patterns (e.g., central city decline, suburbanization, the development of transport systems)<\/li><li>Internal structure of cities (e.g., manufacturing zones, inner and outer suburbs, the location of infrastructure)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1000B54", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1006105" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.9.D", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the human characteristics of places and regions by their economic activities.<ul><li>Spatial distribution of economic activities in Pennsylvania and the United States (e.g., patterns of agriculture, forestry, mining, retailing, manufacturing, services)<\/li><li>Factors that shape spatial patterns of economic activity both Nationally and internationally (e.g., comparative advantage in location of economic activities; changes in resource trade; disruption of trade flows)<\/li><li>Technological changes that affect the definitions of, access to, and use of natural resources (e.g., the role of exploration, extraction, use and depletion of resources)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1006105", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1019923" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.9.E", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the human characteristics of places and regions by their political activities.<ul><li>Spatial pattern of political units in the United States<\/li><li>Geographic factors that affect decisions made in the United States (e.g., territorial expansion, boundary delineation, allocation of natural resources)<\/li><li>Political and public policies that affect geography (e.g., open space, urban development)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1019923", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S100C423" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.12.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the significance of human activity in shaping places and regions by their population characteristics:<ul><li>Spatial distribution, size, density and demographic characteristics of population at the international level<\/li><li>Demographic trends and their impacts on patterns of population distribution (e.g., carrying capacity, changes in fertility, changes in immigration policy, the mobility transition model)<\/li><li>Impact of movement on human systems (e.g., refugees, guest workers, illegal aliens)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S100C423", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1010290" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.12.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the significance of human activity in shaping places and regions by their cultural characteristics.<ul><li>Cultural conflicts (e.g., over language [Canada], over political power [Spain], over economic opportunities [Mexico])<\/li><li>Forces for cultural convergence (e.g., the diffusion of foods, fashions, religions, language)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1010290", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1006F26" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.12.C", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the significance of human activity in shaping places and regions by their settlement characteristics.<ul><li>Description of current and past settlement patterns at the international scale (e.g., global cities)<\/li><li>Use of models of the internal structure of cities (e.g., concentric zone, sector, multiple nuclei)<\/li><li>Forces that have reshaped settlement patterns (e.g., commuter railroads, urban freeways, the development of megalopolis and edge cities)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1006F26", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S101414F" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.12.D", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the significance of human activity in shaping places and regions by their economic characteristics.<ul><li>Changes in spatial distribution of economic activities at the global scale (e.g., patterns of agriculture, forestry, mining, retailing, manufacturing, services)<\/li><li>Forces that are reshaping business(e.g., the information economy, business globalization, the development of off-shore activities)<\/li><li>Effects of changes and movements in factors of production (e.g., resources, labor, capital)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S101414F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S100D89C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.3.12.E", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the significance of human activity in shaping places and regions by their political characteristics:<ul><li>Spatial pattern of political units in the global system<\/li><li>Role of new political alliances on the international level (e.g., multinational organizations, worker's unions, United Nations' organizations)<\/li><li>Impact of political conflicts (e.g., secession, fragmentation, insurgencies, invasions)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S100D89C", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S100A4A8" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "7.4. The Interactions Between People and Places", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S100A4A8", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1024BE5", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1007B95", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1003C88", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S100611B", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S101EA8C", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1003E22", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S100A904", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1026906", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1024BE5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.4.3.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify the impacts of physical systems on people.<ul> <li>How people depend on, adjust to and modify physical systems on a local scale (e.g., soil quality and agriculture, snowfall and daily activities, drought and water use)<\/li> <li>Ways in which natural hazards affect human activities (e.g., storms, lightning, flooding)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1024BE5", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1007B95" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.4.3.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify the impacts of people on physical systems. <ul><li>Effects of energy use (e.g., water quality, air quality, change in natural vegetation)<\/li> <li>Ways humans change local ecosystems (e.g., land use, dams and canals on waterways, reduction and extinction of species<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1007B95", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1003C88" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.4.6.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the impacts of physical systems on people.<ul> <li>How people depend on, adjust to and modify physical systems on a regional scale (e.g., coastal industries, development of coastal communities, flood control)<\/li> <li>Ways in which people adjust to life in hazard-prone areas (e.g., California and earthquakes, Florida and hurricanes, Oklahoma and tornadoes)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1003C88", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S100611B" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.4.6.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the impacts of people on physical systems.<ul><li>Changing spatial patterns on Earth's surface that result from human activities (e.g., lake desiccation as in the Aral Sea, construction of dikes, dams and storm surge barriers in the Netherlands, designation of state parks and forests throughout Pennsylvania)<\/li><li>Ways humans adjust their impact on the habitat (e.g., Endangered Species Act, replacement of wetlands, logging and replanting trees)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S100611B", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S101EA8C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.4.9.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the impacts of physical systems on people.<ul><li>How people depend on, adjust to and modify physical systems on a National scale (e.g., soil conservation programs, projects of The Corps of Engineers)<\/li><li>Ways in which people in hazardprone areas adjust their ways of life (e.g., building design in earthquake areas, dry-farming techniques in drought-prone areas)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S101EA8C", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1003E22" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.4.9.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the impacts of people on physical systems.<ul><li>Forces by which people modify the physical environment (e.g., increasing population; new agricultural techniques; industrial processes and pollution)<\/li><li>Spatial effects of activities in one region on another region (e.g., scrubbers on power plants to clean air, transportation systems such as Trans-Siberian Railroad, potential effects of fallout from nuclear power plant accidents)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1003E22", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S100A904" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.4.12.A", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the impacts of physical systems on people.<ul><li>How people depend on, adjust to and modify physical systems on international scales (e.g., resource development of oil, coal, timber)<\/li><li>Ways in which people modify ways of life to accommodate different environmental contexts (e.g., building in permafrost areas; the role of air-conditioning in the United States South and Southwest; the development of enclosed spaces for movement in cold climates)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S100A904", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1026906" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "7.4.12.B", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10001A5", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the impacts of people on physical systems.<ul><li>How people develop international agreements to manage environmental issues (e.g., Rio de Janeiro Agreement, the Law of the Sea, the Antarctica Treaty)<\/li><li>How local and regional processes can have global effects (e.g., wind and hydroelectric power transmitted across regions, transmitted across regions, water use and irrigation for crop production)<\/li><li>Sustainability of resources (e.g., reforestation, conservation)<\/li><li>World patterns of resource distribution and utilization (e.g., oil trade, regional electrical grids)<\/li><\/ul>", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1026906", "type" : "uri" }
+    ]
+  } 
+}

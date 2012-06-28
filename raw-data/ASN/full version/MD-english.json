@@ -1,0 +1,2760 @@
+{
+  "http://asn.jesandco.org/resources/D1000367.json" : {
+    "http://xmlns.com/foaf/0.1/primaryTopic" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/rightsHolder" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/dc/terms/modified" : [
+      { "value" : "2011-03-02T10:24:39-05:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2011-03-02T10:24:39-05:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/elements/1.1/creator" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://creativecommons.org/ns#license" : [
+      { "value" : "http://creativecommons.org/licenses/by/3.0/us/", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionURL" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionName" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/ASN/schema/core/exportVersion" : [
+      { "value" : "http://purl.org/ASN/export/3.1.0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/D1000367" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/StandardDocument", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/jurisdiction" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNJurisdiction/MD", "type" : "uri" }
+    ],
+    "http://purl.org/dc/elements/1.1/title" : [
+      { "value" : "English High School Core Learning Goals", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Maryland students must pass four high school assessments to receive their high school diploma: English, Government, Algebra\/Data Analysis, and Biology. They take these assessments after they complete the related course. The Core Learning Goals for these four courses define what students need to know and be able to do on each assessment.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/ASN/schema/core/publicationStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNPublicationStatus/Published", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/repositoryDate" : [
+      { "value" : "2011-03-02", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/valid" : [
+      { "value" : "2004", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/tableOfContents" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367/manifest.json", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136B9E", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136B9F", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BA0", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BA1", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136B9E" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Goal 1: Reading, Reviewing and Responding to Texts<br \/> The student will demonstrate the ability to respond to a text by employing personal experiences and critical analysis.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136B9E", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BA2", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BA3", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BA4", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BA2" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "1. Expectation: The student will use effective strategies before, during, and after reading, viewing, and listening to self-selected and assigned materials.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BA2", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BB1", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BB2", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BB3", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BB4", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BB5", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BB1" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.1.1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will use pre-reading strategies appropriate to both the text and purpose for reading by surveying the text, accessing prior knowledge, formulating questions, setting purpose(s), and making predictions.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BB1", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BB2" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.1.2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will use during-reading strategies appropriate to both the text and purpose for reading by visualizing, making connections, and using fix-up strategies such as re-reading, questioning, and summarizing.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BB2", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BB3" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.1.3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will use after-reading strategies appropriate to both the text and purpose for reading by summarizing, comparing, contrasting, synthesizing, drawing conclusions, and validating the purpose for reading.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BB3", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BB4" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.1.4", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will apply reading strategies when comparing, making connections, and drawing conclusions about non-print text.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BB4", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BB5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.1.5", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will identify specific structural elements of particular literary forms: poetry, short story, novel, drama, essay, biography, autobiography, journalistic writing, and film.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BB5", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BA3" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "2. Expectation: The student will construct, examine, and extend meaning of traditional and contemporary works recognized as having significant literary merit.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BA3", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BAB", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BAC", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BAD", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BAE", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BAF", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BB0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BAB" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.2.1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will consider the contributions of plot, character, setting, conflict, and point of view when constructing the meaning of a text.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BAB", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BAC" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.2.2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will determine how the speaker, organization, sentence structure, word choice, tone, rhythm, and imagery reveal an author's purpose.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BAC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BAD" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.2.3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will explain the effectiveness of stylistic elements in a text that communicate an author's purpose.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BAD", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BAE" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.2.4", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will identify and\/or explain connections between and among themes and\/or styles of two or more texts.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BAE", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BAF" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.2.5", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will extend or further develop meaning by explaining the implications of the text for the reader or contemporary society.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BAF", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BB0" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.2.6", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will extend or further develop meaning by comparing texts presented in different media.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BB0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BA4" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "3. Expectation: The student will explain and give evidence to support perceptions about print and non-print works.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BA4", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BA5", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BA6", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BA7", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BA8", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BA9", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BAA", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BA5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.3.1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will explain how language and textual devices create meaning.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BA5", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BA6" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.3.2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will interpret a work by using a critical approach (e.g., reader response, historical, cultural, biographical, structural) that is supported with textual references.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BA6", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BA7" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.3.3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will identify features of language that create tone and voice.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BA7", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BA8" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.3.4", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will explain how devices such as staging, lighting, blocking, special effects, graphics, language, and other techniques unique to a non-print medium are used to create meaning and evoke response.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BA8", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BA9" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.3.5", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will explain how common and universal experiences serve as the source of literary themes that cross time and cultures.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BA9", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BAA" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "1.3.6", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will assess the literary merit of a text.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BAA", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136B9F" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Goal 2: Composing in a Variety of Modes<br \/> The student will demonstrate the ability to compose in a variety of modes by developing content, employing specific forms, and selecting language appropriate for a particular audience and purpose.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136B9F", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BB6", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BB7", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BB8", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BB6" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "1. Expectation: The student will compose oral, written, and visual presentations that inform, persuade, and express personal ideas.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BB6", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BC4", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BC5", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BC6", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BC7", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BC4" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.1.1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will compose to inform by using appropriate types of prose.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BC4", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BC5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.1.2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will compose to describe, using prose and\/or poetic forms.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BC5", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BC6" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.1.3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will compose to express personal ideas, using prose and\/or poetic forms.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BC6", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BC7" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.1.4", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will compose persuasive texts that support, modify, or refute a position and include effective rhetorical strategies.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BC7", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BB7" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "2. Expectation: The student will compose texts using the prewriting, drafting, revising, and editing strategies of effective writers and speakers.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BB7", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BBE", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BBF", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BC0", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BC1", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BC2", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BC3", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BBE" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.2.1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will use a variety of prewriting strategies to generate and develop ideas.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BBE", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BBF" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.2.2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will select and organize ideas for specific audiences and purposes.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BBF", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BC0" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.2.3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will revise and edit texts for clarity, completeness, and effectiveness.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BC0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BC1" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.2.4", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will rehearse oral texts for effective application of diction, intonation, and rhetorical strategies, such as introductions, sequence, illustrations, and conclusions.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BC1", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BC2" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.2.5", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will use suitable traditional and electronic resources to refine presentations and edit texts for effective and appropriate use of language and conventions.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BC2", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BC3" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.2.6", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will prepare the final product for presentation to an audience.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BC3", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BB8" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "3. Expectation: The student will locate, retrieve, and use information from various sources to accomplish a purpose.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BB8", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BB9", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BBA", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BBB", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BBC", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BBD", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BB9" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.3.1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will identify sources of information on a self-selected and\/or given topic and assess their appropriateness to accomplish a purpose.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BB9", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BBA" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.3.2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will use various information retrieval sources (traditional and electronic) to obtain information on a self-selected and\/or given topic. Electronic sources include automated catalogs, CD ROM products, and on-line services like Internet, World Wide Web, and others.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BBA", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BBB" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.3.3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will use a systematic process for recording and documenting information.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BBB", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BBC" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.3.4", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will take a position and support it with documented information from an authoritative source.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BBC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BBD" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "2.3.5", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will synthesize information from two or more sources to fulfill a self-selected or given purpose.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BBD", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BA0" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Goal 3: Controlling Language<br \/> The student will demonstrate the ability to control language by applying the conventions of Standard English in writing and speaking.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BA0", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BC8", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BC9", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BCA", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BC8" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "1. Expectation: The student will demonstrate understanding of the nature and structure of language, including grammar concepts and skills, to strengthen control of oral and written language.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BC8", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BD2", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BD3", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BD4", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BD5", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BD6", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BD7", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BD8", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BD9", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BDA", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BD2" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.1.1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will demonstrate the advantages and limitations of speech and writing when communicating in various situations for specific audiences and purposes.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BD2", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BD3" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.1.2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will describe how intonation, pitch, volume, pause, and rate all influence meaning.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BD3", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BD4" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.1.3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will determine grammatical classification of words by using meaning, position, form, and function.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BD4", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BD5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.1.4", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will differentiate grammatically complete sentences from non-sentences.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BD5", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BD6" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.1.5", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will incorporate subjects, predicates, and modifiers when composing original sentences.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BD6", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BD7" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.1.6", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will compound various sentence elements\u2014subjects, predicates, modifiers, phrases, and clauses\u2014to link or contrast related ideas.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BD7", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BD8" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.1.7", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will vary sentence types\u2014simple, compound, complex, and compound\/complex\u2014to sustain reader or listener interest.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BD8", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BD9" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.1.8", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will expand sentences by positioning phrases and clauses to accomplish a purpose.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BD9", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BDA" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.1.9", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will recognize, combine, and transform basic sentence patterns to vary sentence structure, to emphasize selected ideas, and to achieve syntactic maturity.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BDA", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BC9" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "2. Expectation: The student will identify how language choices in writing and speaking affect thoughts and feelings.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BC9", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BCD", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BCE", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BCF", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BD0", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BD1", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BCD" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.2.1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will choose a level of language, formal to informal, appropriate for a specific audience, situation, or purpose.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BCD", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BCE" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.2.2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will differentiate connotative from denotative meanings of words.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BCE", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BCF" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.2.3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will describe how readers or listeners might respond differently to the same words.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BCF", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BD0" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.2.4", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will describe regional and social language differences.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BD0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BD1" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.2.5", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will describe the impact of regional and social variations of language on listener or reader response.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BD1", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BCA" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "3. Expectation: The student will use capitalization, punctuation, and correct spelling appropriately.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BCA", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BCB", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BCC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BCB" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.3.1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will edit texts for spelling, capitalization, and punctuation.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BCB", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BCC" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "3.3.2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will use available resources to correct or confirm revisions and\/or editorial choices.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BCC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BA1" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Goal 4: Evaluating the Content, Organization, and Language Use of Texts<br \/> The student will demonstrate the ability to evaluate the content, organization, and language use of texts.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BA1", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BDB", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BDC", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BDD", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BDB" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "1. Expectation: The student will describe the effect that a given text, heard or read, has on a listener or reader.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BDB", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BDE", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BDE" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "4.1.1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will state and explain a personal response to a given text.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BDE", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BDC" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "2. Expectation: The student will assess the effectiveness of choice of details, organizational pattern, word choice, syntax, use of figurative language, and rhetorical devices.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BDC", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BDF", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BE0", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BE1", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BE2", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BDF" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "4.2.1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will assess the effectiveness of diction that reveals an author's purpose.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BDF", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BE0" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "4.2.2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will explain how the specific language and expression used by the writer or speaker affects reader or listener response.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BE0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BE1" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "4.2.3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will evaluate the use of transitions and their effectiveness in a text.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BE1", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BE2" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "4.2.4", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will explain how repetitions of words, phrases, structural features, and ideas affect the meaning and\/or tone of a text.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BE2", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BDD" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "3. Expectation: The student will evaluate textual changes in a work and explain how these changes alter tone, clarify meaning, address a particular audience, or fulfill a purpose.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BDD", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S1136BE3", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BE4", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BE5", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S1136BE6", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BE3" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "4.3.1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will alter the tone of a text by revising its diction.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BE3", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BE4" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "4.3.2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will justify revisions in syntax and diction from a previous draft of a text by explaining how the change affects meaning.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BE4", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BE5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "4.3.3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will alter a text to present the same content to a different audience via the same or different media.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BE5", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S1136BE6" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "4.3.4", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000367", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/english", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will compare the differences in effect of two texts on a given subject.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S1136BE6", "type" : "uri" }
+    ]
+  } 
+}
