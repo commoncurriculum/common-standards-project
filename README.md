@@ -84,7 +84,7 @@ Here's the JSON representation:
     }
   },
 ```
-**Notes:** 
+## Notes:
 * **List identifier is an admittedly clumsy name.** It references the number or letter at the beginning of a standard. E.g.
 If the the standard was `1.OA.7`, and you were rendering all the standards in `1.OA`, you could render it like (using Handlebars):
 
