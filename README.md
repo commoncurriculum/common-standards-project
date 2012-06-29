@@ -6,7 +6,7 @@ JSON representations of the Common Core and State Standards
 State and national standards connect to all parts of K-12 education. In order for K12 EdTech companies to use these standards in their apps,
 they need machine readable formats. 
 
-# Hasn't this been done already?
+## Hasn't this been done already?
 
 Sort of. 
 
