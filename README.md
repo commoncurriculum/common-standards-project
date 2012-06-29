@@ -125,10 +125,11 @@ Munging isn't an overnight process. Standards currently in transition are saved 
 These are the final versions of the standards. Undoubtedly, errors will be found and corrected. Thus, each 
 document should have a version number for clarify.
 
-On version numbers: these are similar to semantic versioning:
-`X.y.z: Major` is for a complete change in the schema.
-`x.Y.z: Minor` is for a significant error or addition. E.g. adding another organization's meta data would bump the minor version
+On version numbers for the clean-data: these are similar to semantic versioning:
+
+* `X.y.z: Major` is for a complete change in the schema.
+* `x.Y.z: Minor` is for a significant error or addition. E.g. adding another organization's meta data would bump the minor version
 as would fixing a systemic error with URLs or URIs in the standards.
-'x.y.Z: Patch` is for typos and other tiny errors.
+* 'x.y.Z: Patch` is for typos and other tiny errors.
 
 
