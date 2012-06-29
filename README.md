@@ -132,4 +132,23 @@ On version numbers for the clean-data: these are similar to semantic versioning:
 as would fixing a systemic error with URLs or URIs in the standards.
 * `x.y.Z: Patch` is for typos and other tiny errors.
 
+## Progress
+
+Finished:
+* Common Core Math
+
+Working on:
+* Common Core Reading
+
+
+## Contributing
+
+There are three primary ways to contribute:
+
+* **Give feedback on the schema** Does the schema solve your needs? Are there fields you want or need?
+* **Convert other state standards to the schema** Ping me, `scott at commoncurriculum dot com` to chat.
+* **Contribute to the API** Check out the [API project](https://github.com/commoncurriculum/standards)
+
+
+
 
