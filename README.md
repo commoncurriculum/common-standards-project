@@ -1,7 +1,7 @@
 # State and Common Core Standards JSON Repository
 JSON representations of the Common Core and State Standards 
 
-# Why?
+## Why?
 
 State and national standards connect to all parts of K-12 education. In order for K12 EdTech companies to use these standards in their apps,
 they need machine readable formats. 
@@ -17,8 +17,7 @@ we weren't satisfied with their schema.
 
 
 
-
-# Guiding Principles on the Schema
+## Guiding Principles on the Schema
 
 * **Each standard should be it's own document**
 Fetching a standard shouldn't require traversing a tree.
@@ -43,7 +42,7 @@ To organize the data, each organization's metadata should be under it's own key 
 
 * **Just data. No Markup** Standards shouldn't have HTML tags or list numbers (e.g. "1. Understand...."). 
 
-# Example
+## Example
 
 Here's the standard as published by the NGA/CCSSO:
 
@@ -84,7 +83,17 @@ Here's the JSON representation:
     }
   },
 ```
-## Notes:
+
+
+### Notes:
+* **Grade Level vs Grade Level** As some standards address multiple grades, the plural form holds an array of the grades levels
+(using the CEDS list of official identifiers). `gradeLevel` holds a string of the grade. E.g. A high school standard would target 
+grades 9, 10, 11, and 12 but it's `gradeLevel` would be "High School".
+
+* **Clarifications** In standards, the authors often have some explanatory information. For the Maryland standars, the authors 
+note the limits of the state assessment. For the Common Core, the authors often give examples. Currently, the footnotes are included
+in the `clarifications` section. In the future, hopefully these will be broken out in a separate `footnotes` field.
+
 * **List identifier is an admittedly clumsy name.** It references the number or letter at the beginning of a standard. E.g.
 If the the standard was `1.OA.7`, and you were rendering all the standards in `1.OA`, you could render it like (using Handlebars):
 
@@ -96,15 +105,10 @@ If the the standard was `1.OA.7`, and you were rendering all the standards in `1
 
 which would produce:
 
+```
 1. Use addition and subtraction within 20 ...
 2. Solve word problems that call for addition ...
 3. Apply properties of operations ... 
+```
 
-* **Grade Level vs Grade Level** As some standards address multiple grades, the plural form holds an array of the grades levels
-(using the CEDS list of official identifiers). `gradeLevel` holds a string of the grade. E.g. A high school standard would target 
-grades 9, 10, 11, and 12 but it's `gradeLevel` would be "High School".
-
-* **Clarifications** In standards, the authors often have some explanatory information. For the Maryland standars, the authors 
-note the limits of the state assessment. For the Common Core, the authors often give examples. Currently, the footnotes are included
-in the `clarifications` section. In the future, hopefully these will be broken out in a separate `footnotes` field.
 
