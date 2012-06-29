@@ -22,7 +22,7 @@ we weren't satisfied with their schema.
 * **Each standard should be it's own document**
 Fetching a standard shouldn't require traversing a tree.
 
-* **Use the [Common Education Data Standards](https://ceds.ed.gov/dataModel.aspx) created by the US Dept of Ed schema**
+* **Use the schema from the [Common Education Data Standards](https://ceds.ed.gov/dataModel.aspx) created by the US Dept of Ed schema**
 The fields in each standard should reflect the schema described the CEDS. 
 
 * **Use GUIDs for cross-app communication**
@@ -81,7 +81,7 @@ Here's the JSON representation:
       "URI":"http://corestandards.org/2010/math/content/1/OA/7",
       "currentURL":"http://www.corestandards.org/the-standards/mathematics/grade-1/operations-and-algebraic-thinking/#1-oa-7"
     }
-  },
+  }
 ```
 
 
@@ -130,6 +130,6 @@ On version numbers for the clean-data: these are similar to semantic versioning:
 * `X.y.z: Major` is for a complete change in the schema.
 * `x.Y.z: Minor` is for a significant error or addition. E.g. adding another organization's meta data would bump the minor version
 as would fixing a systemic error with URLs or URIs in the standards.
-* 'x.y.Z: Patch` is for typos and other tiny errors.
+* `x.y.Z: Patch` is for typos and other tiny errors.
 
 
