@@ -86,11 +86,11 @@ Here's the JSON representation:
 
 
 ### Notes:
-* **Grade Level vs Grade Level** As some standards address multiple grades, the plural form holds an array of the grades levels
+* **Grade Level vs Grade Levels** As some standards address multiple grades, the plural form holds an array of the grades levels
 (using the CEDS list of official identifiers). `gradeLevel` holds a string of the grade. E.g. A high school standard would target 
 grades 9, 10, 11, and 12 but it's `gradeLevel` would be "High School".
 
-* **Clarifications** In standards, the authors often have some explanatory information. For the Maryland standars, the authors 
+* **Clarifications** In standards, the authors often have some explanatory information. For the Maryland standards, the authors 
 note the limits of the state assessment. For the Common Core, the authors often give examples. Currently, the footnotes are included
 in the `clarifications` section. In the future, hopefully these will be broken out in a separate `footnotes` field.
 
