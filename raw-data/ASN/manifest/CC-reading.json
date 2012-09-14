@@ -18023,7 +18023,8 @@
                   "uri": "http:\/\/purl.org\/ASN\/scheme\/ASNEducationLevel\/7",
                   "prefLabel": "7"
                 },
-                "leaf": "true"
+                "leaf": "true",
+                "asn_statementNotation": "W.7.2.a"
               },
               {
                 "id": "http:\/\/asn.jesandco.org\/resources\/S2364870",
@@ -18084,6 +18085,7 @@
                   "uri": "http:\/\/purl.org\/ASN\/scheme\/ASNEducationLevel\/7",
                   "prefLabel": "7"
                 },
+                "asn_statementNotation": "W.7.2.c",
                 "leaf": "true"
               },
               {
@@ -18616,7 +18618,8 @@
                   "uri": "http:\/\/purl.org\/ASN\/scheme\/ASNEducationLevel\/8",
                   "prefLabel": "8"
                 },
-                "leaf": "true"
+                "leaf": "true",
+                "asn_statementNotation": "W.8.2.a"
               },
               {
                 "id": "http:\/\/asn.jesandco.org\/resources\/S114397C",
@@ -18646,7 +18649,8 @@
                   "uri": "http:\/\/purl.org\/ASN\/scheme\/ASNEducationLevel\/8",
                   "prefLabel": "8"
                 },
-                "leaf": "true"
+                "leaf": "true",
+                "asn_statementNotation": "W.8.2.b"
               },
               {
                 "id": "http:\/\/asn.jesandco.org\/resources\/S114397F",
@@ -18676,7 +18680,9 @@
                   "uri": "http:\/\/purl.org\/ASN\/scheme\/ASNEducationLevel\/8",
                   "prefLabel": "8"
                 },
-                "leaf": "true"
+                "leaf": "true",
+                "asn_statementNotation": "W.8.2.c"
+
               },
               {
                 "id": "http:\/\/asn.jesandco.org\/resources\/S2364872",
@@ -19741,7 +19747,9 @@
                     "prefLabel": "12"
                   }
                 ],
-                "leaf": "true"
+                "leaf": "true",
+                "asn_statementNotation": "W.11-12.1.a"
+
               },
               {
                 "id": "http:\/\/asn.jesandco.org\/resources\/S1143994",
@@ -19777,7 +19785,8 @@
                     "prefLabel": "12"
                   }
                 ],
-                "leaf": "true"
+                "leaf": "true",
+                "asn_statementNotation": "W.11-12.1.b"
               },
               {
                 "id": "http:\/\/asn.jesandco.org\/resources\/S1143996",
@@ -19813,7 +19822,8 @@
                     "prefLabel": "12"
                   }
                 ],
-                "leaf": "true"
+                "leaf": "true",
+                "asn_statementNotation": "W.11-12.1.c"
               },
               {
                 "id": "http:\/\/asn.jesandco.org\/resources\/S2364884",
@@ -21029,7 +21039,9 @@
                 "prefLabel": "12"
               }
             ],
-            "leaf": "true"
+            "leaf": "true",
+            "asn_statementNotation": "W.6.4"
+
           },
           {
             "id": "http:\/\/asn.jesandco.org\/resources\/S11439B7",
@@ -23035,7 +23047,7 @@
                   }
                 ],
                 "leaf": "true",
-                "asn_statementNotation": "W.11-12.9.b"
+                "asn_statementNotation": "W.11-12.9.a"
               },
               {
                 "id": "http:\/\/asn.jesandco.org\/resources\/S11439E2",
@@ -34788,7 +34800,7 @@
                   "prefLabel": "6"
                 },
                 "leaf": "true",
-                "asn_statementNotation": "L.6.1.e"
+                "asn_statementNotation": "L.6.1.a"
               },
               {
                 "id": "http:\/\/asn.jesandco.org\/resources\/S114387A",
@@ -34819,7 +34831,7 @@
                   "prefLabel": "6"
                 },
                 "leaf": "true",
-                "asn_statementNotation": "L.6.1.e"
+                "asn_statementNotation": "L.6.1.b"
               },
               {
                 "id": "http:\/\/asn.jesandco.org\/resources\/S114387B",
@@ -39680,7 +39692,7 @@
               "uri": "http:\/\/purl.org\/ASN\/scheme\/ASNTopic\/english",
               "prefLabel": "English"
             },
-            "asn_statementNotation": "L.6.8",
+            "asn_statementNotation": "L.8.6",
             "dcterms_description": {
               "literal": "6. Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
               "language": "en-US"
