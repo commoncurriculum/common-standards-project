@@ -1,0 +1,130 @@
+[
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.R.1",
+    "asn_notation": "R.CCR.1"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.R.2",
+    "asn_notation": "R.CCR.2"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.R.3",
+    "asn_notation": "R.CCR.3"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.R.4",
+    "asn_notation": "R.CCR.4"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.R.5",
+    "asn_notation": "R.CCR.5"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.R.6",
+    "asn_notation": "R.CCR.6"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.R.7",
+    "asn_notation": "R.CCR.7"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.R.8",
+    "asn_notation": "R.CCR.8"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.R.9",
+    "asn_notation": "R.CCR.9"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.R.10",
+    "asn_notation": "R.CCR.10"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.W.1",
+    "asn_notation": "W.CCR.1"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.W.2",
+    "asn_notation": "W.CCR.2"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.W.3",
+    "asn_notation": "W.CCR.3"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.W.4",
+    "asn_notation": "W.CCR.4"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.W.5",
+    "asn_notation": "W.CCR.5"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.W.6",
+    "asn_notation": "W.CCR.6"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.W.7",
+    "asn_notation": "W.CCR.7"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.W.8",
+    "asn_notation": "W.CCR.8"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.W.9",
+    "asn_notation": "W.CCR.9"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.W.10",
+    "asn_notation": "W.CCR.10"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.SL.1",
+    "asn_notation": "SL.CCR.1"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.SL.2",
+    "asn_notation": "SL.CCR.2"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.SL.3",
+    "asn_notation": "SL.CCR.3"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.SL.4",
+    "asn_notation": "SL.CCR.4"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.SL.5",
+    "asn_notation": "SL.CCR.5"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.SL.6",
+    "asn_notation": "SL.CCR.6"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.L.1",
+    "asn_notation": "L.CCR.1"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.L.2",
+    "asn_notation": "L.CCR.2"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.L.3",
+    "asn_notation": "L.CCR.3"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.L.4",
+    "asn_notation": "L.CCR.4"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.L.5",
+    "asn_notation": "L.CCR.5"
+  },
+  {
+    "ccss_notation": "CCSS.ELA-Literacy.CCRA.L.6",
+    "asn_notation": "L.CCR.6"
+  }
+]
