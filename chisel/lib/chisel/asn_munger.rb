@@ -2,57 +2,35 @@ module ASNMunger
 
   def munge
     doc.each_with_index do |standard, i|
-      move_pref_label(doc[i])
-      prefix_asn_fields(doc[i])
+      add_ccss_notations(doc[i])
       clean_comments(doc[i])
-      remove_number_from_standard(doc[i])
+      remove_number_from_statement(doc[i])
       flatten_education_level(doc[i])
       rename_education_level(doc[i])
       change_statement_notation(doc[i])
       add_jurisdiction(doc[i])
       convert_grade_levels_to_ceds(doc[i])
+      standards_without_codes(doc[i])
+      add_grade_level(doc[i])
     end
+    self
   end
 
-  def move_pref_label(standard)
-    standard.each do |k, v|
-      next unless v.is_a?(Hash) 
-      # move prefLabel 
-      # eg. move from 
-      #
-      # "authorityStatus": {
-      #  "uri": "Original",
-      #  "prefLabel": "Original Statement"
-      # },
-      #
-      # to
-      # "authorityStatus": "Original Statement"
-      if v.has_key?("prefLabel")
-        standard[k] = v["prefLabel"]
-      end
 
-      # move literal to value
-      # from: 
-      # "description": {
-      #  "literal": "Standards for Mathematical Practice",
-      #  "language": "en-US"
-      # },
-      # 
-      # to:
-      # "description" : "Standards for Mathematical Practice"
-      #
-      if v.has_key?("literal")
-        standard[k] = v["literal"]
-      end
+  def add_ccss_notations(standard)
+    file = File.open('raw-data/CCSSI/asn_to_ccss_notation.json', 'r').read
+    doc = MultiJson.decode(file)
+    found = doc.find do |d|
+      d['asn_notation'] == standard['ASN']['statementNotation']
     end
+    return if found.nil?
+    found['ccss_notation'].gsub!(/CCSS.ELA-Literacy./, '')
+    found['ccss_notation'].gsub!(/CCSS.Math.Content./, '')
+    found['ccss_notation'].gsub!(/CCSS.Math.Practice./, '')
+    standard['CCSS']['simplifiedDotNotation'] = found['ccss_notation']
   end
 
-  def prefix_asn_fields(standard)
-    standard["asnIdentifier"] = standard.delete("identifier")
-    standard["asnStatementNotation"] = standard.delete("statementNotation") if standard.has_key?("statementNotation")
-    standard["asnStatementNotation"] = standard.delete("statementNotation") if standard.has_key?("statementNotation")
-    
-  end
+
 
   def clean_comments(standard)
     if standard.has_key?("comment") && standard.class == Array
@@ -62,7 +40,7 @@ module ASNMunger
 
 
   # parse out number from standard
-  def remove_number_from_standard(standard)
+  def remove_number_from_statement(standard)
     return unless standard.has_key?("description")
     num = ""
     text = ""
@@ -86,14 +64,17 @@ module ASNMunger
     standard["gradeLevels"] = Array(standard.delete("educationLevel")) if standard.has_key?("educationLevel")
   end 
 
-  #change statement notation to match NGA/CCSSO notation
+  # change statement notation to match NGA/CCSSO notation
+  # e.g.: WHST.9-10.2.b => WHST.9-10.2b
   def change_statement_notation(standard)
-    return unless standard.has_key?("asnStatementNotation")
-    code = standard['asnStatementNotation'].clone
+    return if standard['ASN']['statementNotation'].nil?
+    return unless standard['CCSS']['simplifiedDotNotation'].nil?
+    
+    code = standard["ASN"]['statementNotation'].clone
     if code.gsub(/(\d)\.([a-z])/).count > 0
       code.gsub!(/(\d)\.([a-z])/, $1 + $2)
     end
-    standard["ccssiSimplifiedDotNotation"] = code
+    standard["CCSS"]["simplifiedDotNotation"] = code
   end
   
   def add_jurisdiction(standard)
@@ -108,4 +89,17 @@ module ASNMunger
         ASN_TO_CEDS_LEVELS[value]
     end
   end 
+
+  def standards_without_codes(standard)
+    # pull out standards without codes
+    return if standard.has_key?("ccssiSimplifiedDotNotation")
+    #code = ask "What is the ccssi sipmlified dot notation for #{hash.statement}?"
+    #flat[i]["ccssiSimplifiedDotNotation"] = code
+    #ret = standard
+  end
+
+  def add_grade_level(standard)
+    standard["gradeLevel"] = GRADES[standard["gradeLevels"]]
+  end
+  
 end

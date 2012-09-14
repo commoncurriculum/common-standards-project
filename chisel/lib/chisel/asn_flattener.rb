@@ -3,9 +3,9 @@ module ASNFlattener
 
   def flatten
     flat = []
-    self.doc.each do |branch|
-      flat << branch
-      push_children(flat, branch)
+    self.doc.each_with_index do |doc, i|
+      flat << doc
+      push_children(flat, doc)
     end
     self.doc = flat
     self
@@ -13,13 +13,14 @@ module ASNFlattener
 
   def push_children(container, element)
     if element.is_a?(Hash) && element.has_key?("children")
+      ids = element['children'].collect{|el| el['id']}
       element['children'].each do |el|
-        el[:asnParent] = element['id']
+        el['parent'] = element['id']
         container << el 
           push_children(container, el)
         end
       end
-      element.delete("children")
+      element["children"] = ids
   end
   
 end

@@ -42,6 +42,18 @@ class CCSSIIdentifier
     @doc ||=  MultiJson.decode(file)
   end
 
+  def math
+      doc.delete_if do |standard|
+         standard['dot_notation'].match(/Math/).nil?
+      end
+  end
+
+  def literacy
+      doc.delete_if do |standard|
+        standard['dot_notation'].match(/Literacy/).nil?
+      end
+  end
+
   def self.combine_v1_with_v2(doc_1, doc_2)
     doc_2.each_with_index do |standard, i|
       doc_2[i]['dot_notation_v1'] = find_standard_by_guid(doc_1, standard['GUID'])['dot_notation']
