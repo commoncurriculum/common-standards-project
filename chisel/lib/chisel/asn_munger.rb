@@ -12,6 +12,7 @@ module ASNMunger
       convert_grade_levels_to_ceds(doc[i])
       standards_without_codes(doc[i])
       add_grade_level(doc[i])
+      convert_subjects(doc[i])
     end
     self
   end
@@ -100,6 +101,12 @@ module ASNMunger
 
   def add_grade_level(standard)
     standard["gradeLevel"] = GRADES[standard["gradeLevels"]]
+  end
+
+  def convert_subjects(standard)
+    if standard["subject"] == "English"
+      standard["subject"] = "Reading"
+    end
   end
   
 end
