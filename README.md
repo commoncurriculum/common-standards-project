@@ -147,7 +147,6 @@ There are three primary ways to contribute:
 
 * **Give feedback on the schema** Does the schema solve your needs? Are there fields you want or need?
 * **Convert other state standards to the schema** Ping me, `scott at commoncurriculum dot com` to chat.
-* **Contribute to the API** Check out the [API project](https://github.com/commoncurriculum/standards)
 
 
 
