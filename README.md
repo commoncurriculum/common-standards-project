@@ -1,3 +1,6 @@
+# UPDATE - March 2015
+We've been working on a new set of data that's more up to date and includes standards from all 50 states. We're using it in production but had the time to ready it for OSS release. If you're interested in using this data, ping me and I can give you access to the newer set of data.
+
 # State and Common Core Standards JSON Repository
 JSON representations of the Common Core and State Standards 
 
@@ -10,8 +13,7 @@ they need machine readable formats.
 
 Sort of. 
 
-* The [Achievement Standards Network](http://asn.jesandco.org/) has created XML and JSON versions of the standards. In our experience, their schema 
-doesn't fully address our needs. 
+* The [Achievement Standards Network](http://asn.jesandco.org/) has created XML and JSON versions of the standards. In our experience, their schema doesn't fully address our needs. 
 * [Academic Benchmarks](academicbenchmarks.com) is a company that sells XML and JSON versions of the standars. Like with ASN, 
 we weren't satisfied with their schema.
 
