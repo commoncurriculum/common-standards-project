@@ -1,5 +1,5 @@
-# UPDATE - March 2015
-We've been working on a new set of data that's more up to date and includes standards from all 50 states. We're using it in production but had the time to ready it for OSS release. If you're interested in using this data, ping me and I can give you access to the newer set of data.
+# UPDATE - December 2015
+Head over to http://commonstandardsproject.com to check out the new project. The code is at [http://github.com/commonstandardsproject](http://github.com/commonstandardsproject)
 
 # State and Common Core Standards JSON Repository
 JSON representations of the Common Core and State Standards 
