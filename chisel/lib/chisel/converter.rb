@@ -1,3 +1,0 @@
-class Converter
-
-end
