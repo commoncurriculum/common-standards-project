@@ -1,13 +1,12 @@
 # UPDATE - December 2015
-Head over to http://commonstandardsproject.com to check out the new project. The code is at [http://github.com/commonstandardsproject](http://github.com/commonstandardsproject)
+Head over to http://commonstandardsproject.com to browse the standards and see documentation for the API. The code is at [http://github.com/commonstandardsproject](http://github.com/commonstandardsproject). Or, checkout the [importer which will download the standards from the API and put them into your database](https://github.com/commonstandardsproject/standards-importer).
 
 # State and Common Core Standards JSON Repository
 JSON representations of the Common Core and State Standards 
 
 ## Why?
 
-State and national standards connect to all parts of K-12 education. In order for K12 EdTech companies to use these standards in their apps,
-they need machine readable formats. 
+State and national standards connect to all parts of K-12 education. In order for K12 EdTech companies to use these standards in their apps, they need machine readable formats. 
 
 ## Hasn't this been done already?
 
@@ -18,70 +17,47 @@ Sort of.
 we weren't satisfied with their schema.
 
 
-
-## Guiding Principles on the Schema
-
-* **Each standard should be it's own document**
-Fetching a standard shouldn't require traversing a tree.
-
-* **Use the schema from the [Common Education Data Standards](https://ceds.ed.gov/dataModel.aspx) created by the US Dept of Ed schema**
-The fields in each standard should reflect the schema described the CEDS. 
-
-* **Use GUIDs for cross-app communication**
-For EdTech companies to better use each other's APIs, each standard needs to share the same GUID. The organization that produced 
-the Common Core standards, the [NGA/CCSSO](http://www.corestandards.org/) has released
-[GUIDs](http://www.corestandards.org/developments-on-common-core-state-standards-identifier-and-xml-representation).
-These GUIDs are used for the standards above.
-
-* **Cater to teachers: use short codes** Teachers live and breath the standards. They know them by name and code. Long codes
-like "CC.Math.1.NBT.2a" are distracting and annoying. A teacher would call that standard "1.NBT.2a" as they already know it's a math standard
-from the Common Core. The standards need to codify the commonly used short code for the standard.
-
-* **Namespace attributes** The NGA/CCSSO (referred to in the standars as the CCSSI or Common Core State Standards Inititative) has 
-released URIs, URLs, GUIDs, and official long codes for each standard. The ASN has released it's own set of identifiers and URIs for the standards.
-Academic Benchmarks has their own set of GUIDs and URIs for each standard. Undoubtedly, other organizations will release metadata as well.
-To organize the data, each organization's metadata should be under it's own key (e.g. "CCSSI" would hold CCCSSI's URI and URL)
-
-* **Just data. No Markup** Standards shouldn't have HTML tags or list numbers (e.g. "1. Understand...."). 
-
 ## Example
 
-Here's the standard as published by the NGA/CCSSO:
-
-
-Here's the JSON representation:
+Here's the JSON representation you can find on the 
 ```json
-  {
-    "id":"2A26EE660F72412EA29765D79C367F0B",
-    "language":"English",
-    "subject":"Math",
-    "gradeLevel":"Grade 1",
-    "code":"Math.1.OA.7",
-    "shortCode":"1.OA.7",
-    "listIdentifier":"7",
-    "statement":"Understand the meaning of the equal sign, and determine if equations involving addition and subtraction are true or false.",
-    "clarifications":[
-      "For example, which of the following equations are true and which are false? 6 = 6, 7 = 8 - 1, 5 + 2 = 2 + 5, 4 + 1 = 5 + 2."
-    ],
-    "gradeLevels":[
+  standard_set = {
+    "title": "Grade 1",
+    "subject": "Mathematics",
+    "educationLevels": [
       "01"
     ],
-    "jurisdiction":"Common Core State Standards Initiative",
-    "jurisdictionAbbreviation":"CC",
-    "ASN":{
-      "identifier":"http://purl.org/ASN/resources/S114343E",
-      "id":"S114343E",
-      "parent":"S1143430",
-      "indexingStatus":"Yes",
-      "authorityStatus":"Original Statement",
-      "statementNotation":"1.OA.7",
-      "leaf":"true"
+    "license": {
+      "title": "CC BY 3.0 US",
+      "URL": "http://creativecommons.org/licenses/by/3.0/us/",
+      "rightsHolder": "Desire2Learn Incorporated"
     },
-    "CCSSI":{
-      "GUID":"2A26EE660F72412EA29765D79C367F0B",
-      "dotNotation":"Math.1.OA.7",
-      "URI":"http://corestandards.org/2010/math/content/1/OA/7",
-      "currentURL":"http://www.corestandards.org/the-standards/mathematics/grade-1/operations-and-algebraic-thinking/#1-oa-7"
+    "document": {
+      "id": "D2604890",
+      "valid": "2011",
+      "title": "Maryland College and Career-Ready Standards - Mathematics (PK-8)",
+      "sourceURL": "http://mdk12.org/instruction/curriculum/mathematics/index.html",
+      "asnIdentifier": "D2604890",
+      "publicationStatus": "Published"
+    },
+    "jurisdiction": {
+      "id": "49FCDFBD2CF04033A9C347BFA0584DF0",
+      "title": "Maryland"
+    },
+    "standards": {
+      "0AD25973CF4E4DC892561BEEF05C6BB4": {
+        "id": "0AD25973CF4E4DC892561BEEF05C6BB4", 
+        "asnIdentifier": "S2604988",
+        "position": 33000,
+        "depth": 2,
+        "statementNotation": "1.NBT.4",
+        "statementLabel": "Standard",
+        "description": "Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used. Understand that in adding two-digit numbers, one adds tens and tens, ones and ones, and sometimes it is necessary to compose a ten.",
+        "ancestorIds": [
+          "E5B209C180E24242B7D337302A19D69B",
+          "3993CD0C80874BE0B5CE62758D97F64A"
+        ]
+      }
     }
   }
 ```
@@ -113,35 +89,9 @@ which would produce:
 3. Apply properties of operations ... 
 ```
 
-## Folder Stucture
-
-Munging JSON is an iterative process. To that end, the data is in three folders:
-
-* `raw-data`
-Raw Data holds the raw data downloads from the ASN or other organizations
-
-* `transition-data`
-Munging isn't an overnight process. Standards currently in transition are saved in the transition data folder.
-
-* `clean-data`
-These are the final versions of the standards. Undoubtedly, errors will be found and corrected. Thus, each 
-document should have a version number for clarify.
-
-On version numbers for the clean-data: these are similar to semantic versioning:
-
-* `X.y.z: Major` is for a complete change in the schema.
-* `x.Y.z: Minor` is for a significant error or addition. E.g. adding another organization's meta data would bump the minor version
-as would fixing a systemic error with URLs or URIs in the standards.
-* `x.y.Z: Patch` is for typos and other tiny errors.
-
 ## Progress
 
-Finished:
-* Common Core Math
-
-Working on:
-* Common Core Reading
-
+All standards are done!
 
 ## Contributing
 
@@ -149,7 +99,3 @@ There are three primary ways to contribute:
 
 * **Give feedback on the schema** Does the schema solve your needs? Are there fields you want or need?
 * **Convert other state standards to the schema** Ping me, `scott at commoncurriculum dot com` to chat.
-
-
-
-
