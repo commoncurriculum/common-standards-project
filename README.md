@@ -62,33 +62,6 @@ Here's the JSON representation you can find on the
   }
 ```
 
-
-### Notes:
-* **Grade Level vs Grade Levels** As some standards address multiple grades, the plural form holds an array of the grades levels
-(using the CEDS list of official identifiers). `gradeLevel` holds a string of the grade. E.g. A high school standard would target 
-grades 9, 10, 11, and 12 but it's `gradeLevel` would be "High School".
-
-* **Clarifications** In standards, the authors often have some explanatory information. For the Maryland standards, the authors 
-note the limits of the state assessment. For the Common Core, the authors often give examples. Currently, the footnotes are included
-in the `clarifications` section. In the future, hopefully these will be broken out in a separate `footnotes` field.
-
-* **List identifier is an admittedly clumsy name.** It references the number or letter at the beginning of a standard. E.g.
-If the the standard was `1.OA.7`, and you were rendering all the standards in `1.OA`, you could render it like (using Handlebars):
-
-```
-{{#each standard}}
-  {{listIdentifier}}. {{statement}}
-{{/each}}
-```
-
-which would produce:
-
-```
-1. Use addition and subtraction within 20 ...
-2. Solve word problems that call for addition ...
-3. Apply properties of operations ... 
-```
-
 ## Progress
 
 All standards are done!
