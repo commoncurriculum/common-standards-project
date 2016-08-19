@@ -1,5 +1,5 @@
 # UPDATE - December 2015
-Head over to http://commonstandardsproject.com to browse the standards and see documentation for the API. The code is at [http://github.com/commonstandardsproject](http://github.com/commonstandardsproject). Or, checkout the [importer which will download the standards from the API and put them into your database](https://github.com/commonstandardsproject/standards-importer).
+Head over to http://commonstandardsproject.com to browse the standards and see documentation for the API. The code is at [http://github.com/commonstandardsproject](http://github.com/commonstandardsproject/api). Or, checkout the [importer which will download the standards from the API and put them into your database](https://github.com/commonstandardsproject/standards-importer).
 
 # State and Common Core Standards JSON Repository
 JSON representations of the Common Core and State Standards 
